@@ -1,8 +1,8 @@
 # Hi, I'm Jourdan 👾
 
-**📍 San Francisco Bay Area | 💡 Ex-Founder | 💻 Serial Project Builder**
+**📍 San Francisco Bay Area | 💡 Ex-Founder**
 
-You might also know me as [@professorragna](https://twitter.com/professorragna) on X. I like to play video games and watch stuff like anime, wrestling & basketball. But when I'm not doing those things, I'm constantly building & looking for my next passion project.
+You might also know me as [@professorragna](https://twitter.com/professorragna) on X. I like to play video games and watch stuff like anime, wrestling & basketball. But when I'm not doing those things, I'm probably building & looking for my next passion project.
 
 I also invest in highly technical founders building software at scale to solve problems they experienced first-hand, with a particular interest in categories such as AI / ML, Developer Tools, SaaS, and FinTech.
 
@@ -10,10 +10,10 @@ Email me ([jpbullalayao@gmail.com](mailto:jpbullalayao@gmail.com)) or tweet me o
 
 ## Current Projects
 
-- professorragna.com — Personal blog
+- [professorragna.com](https://professorragna.com) — Personal blog
 - Stealth — Pre-launch web app & API for aggregating esports competitive data
 - Pokemon VGC Agent — Building an agent to help Pokemon competitors prepare for official competition
-  - [limitless-cli](https://github.com/jpbullalayao/limitless-cli) — CLI wrapper around the LimitlessTCG API
+  - [limitless-cli](https://github.com/jpbullalayao/limitless-cli) — CLI & agent skill for the LimitlessTCG API
   - [limitless-python](https://github.com/jpbullalayao/limitless-python) — Python wrapper around the LimitlessTCG API
   - [limitlesstcg-mcp](https://github.com/jpbullalayao/limitlesstcg-mcp) — MCP Server for the LimitlessTCG API
   - [pokemon-paste-mcp](https://github.com/jpbullalayao/pokemon-paste-mcp) — MCP Server for creating pokepastes
