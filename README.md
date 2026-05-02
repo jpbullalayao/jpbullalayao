@@ -6,7 +6,7 @@ You might also know me as [@professorragna](https://twitter.com/professorragna) 
 
 I also invest in highly technical founders building software at scale to solve problems they experienced first-hand, with a particular interest in categories such as AI / ML, Developer Tools, SaaS, and FinTech.
 
-Email me ([jpbullalayao@gmail.com](mailto:jpbullalayao@gmail.com)) or tweet me on X if you're interested in working together.
+Email me ([professor.ragna@gmail.com](mailto:professor.ragna@gmail.com)) or tweet me on X if you're interested in working together.
 
 ## Current Projects
 
