@@ -37,7 +37,7 @@ Email me ([professor.ragna@gmail.com](mailto:professor.ragna@gmail.com)) or twee
 - Ruby on Rails
 - PHP
 
-## Legacy Projects
+## Prior Work
 
 - [linear-python](https://github.com/jpbullalayao/linear-python) — Python wrapper for the Linear API
 - [sendbird-python](https://github.com/jpbullalayao/sendbird-python) — Python wrapper for the SendBird API
