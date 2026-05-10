@@ -26,7 +26,7 @@ Email me ([professor.ragna@gmail.com](mailto:professor.ragna@gmail.com)) or twee
 - Claude Code
 - Cursor
 
-I've built custom skills for automating parts of my dev workflows, and leverage common CLI / skills / MCP servers such as linear, github, [find-docs](https://skills.sh/upstash/context7/find-docs), etc. 
+I've built custom skills for automating parts of my dev workflows (see [ragna-harness](https://github.com/jpbullalayao/ragna-harness)), and leverage common CLI / skills / MCP servers such as linear, github, [find-docs](https://skills.sh/upstash/context7/find-docs), etc. 
 
 ### Languages / Frameworks
 
