@@ -24,6 +24,7 @@ Email me ([professor.ragna@gmail.com](mailto:professor.ragna@gmail.com)) or twee
 ### Harnesses
 
 - Claude Code
+- Grok Bot
 - Cursor
 
 I've built custom skills for automating parts of my dev workflows (see [ragna-ai](https://github.com/jpbullalayao/ragna-ai)), and leverage common CLI / skills / MCP servers such as linear, github, [find-docs](https://skills.sh/upstash/context7/find-docs), etc. 
